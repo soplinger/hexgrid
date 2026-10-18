@@ -1,0 +1,15 @@
+# A small valley: open ground, forest, hills, a lake and rock.
+layout odd-r
+terrain . 1 open ground
+terrain f 2 forest
+terrain m 3 hill
+terrain ~ - lake
+terrain # - rock
+opaque f
+opaque #
+grid
+........
+..ff~~..
+.fff~mm.
+..ff..m.
+...#....
